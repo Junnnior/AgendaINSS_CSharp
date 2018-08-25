@@ -1,0 +1,14 @@
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\bin\Debug\Agendamento.exe.config
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\bin\Debug\Agendamento.exe
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\bin\Debug\Agendamento.pdb
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.csprojResolveAssemblyReference.cache
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.Properties.Resources.resources
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.csproj.GenerateResource.Cache
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.exe
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.pdb
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.Lista_Agendados.resources
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.Inicio.resources
+C:\Users\junio\Desktop\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.AgendamentoFm.resources
+E:\agendamento\Agendamento\Agendamento\bin\Debug\Agendamento.exe.config
+E:\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.exe
+E:\agendamento\Agendamento\Agendamento\obj\Debug\Agendamento.pdb

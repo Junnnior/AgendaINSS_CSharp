@@ -1,0 +1,14 @@
+E:\agendamento\A.R v1.0\Agendamento\bin\Debug\Agendamento.exe.config
+E:\agendamento\A.R v1.0\Agendamento\obj\Debug\Agendamento.exe
+E:\agendamento\A.R v1.0\Agendamento\obj\Debug\Agendamento.pdb
+E:\agendamento\A.R v1.0\Agendamento\bin\Debug\Agendamento.exe
+E:\agendamento\A.R v1.0\Agendamento\bin\Debug\Agendamento.pdb
+E:\agendamento\A.R v1.0\Agendamento\obj\Debug\A.R v1.0.csprojResolveAssemblyReference.cache
+E:\agendamento\A.R v1.0\Agendamento\obj\Debug\Agendamento.AgendamentoFm.resources
+E:\agendamento\A.R v1.0\Agendamento\obj\Debug\Agendamento.Inicio.resources
+E:\agendamento\A.R v1.0\Agendamento\obj\Debug\Agendamento.Lista_Agendados.resources
+E:\agendamento\A.R v1.0\Agendamento\obj\Debug\Agendamento.Properties.Resources.resources
+E:\agendamento\A.R v1.0\Agendamento\obj\Debug\A.R v1.0.csproj.GenerateResource.Cache
+E:\agendamento\A.R v1.1\Agendamento\bin\Debug\Agendamento.exe.config
+E:\agendamento\A.R v1.1\Agendamento\obj\Debug\Agendamento.exe
+E:\agendamento\A.R v1.1\Agendamento\obj\Debug\Agendamento.pdb
