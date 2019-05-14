@@ -130,7 +130,7 @@ namespace Agendamento
                     if (cbxTerca.Checked){
                         // valida se o dia é igual ao dia disponivel.
                         if (diaSemana.DayOfWeek.ToString() == "Tuesday"){
-                            Modolos SQL = new Modolos();
+                            Modulos SQL = new Modulos();
                             qtdAgendados = SQL.qtdData(dataD);
                             // 6 -> limite máximo de agendados por dia.
                             if (qtdAgendados < 6){
@@ -145,7 +145,7 @@ namespace Agendamento
                        ele busca por quintas disponíveis */
                     if (cbxQuinta.Checked){
                         if (diaSemana.DayOfWeek.ToString() == "Thursday"){
-                            Modolos SQL = new Modolos();
+                            Modulos SQL = new Modulos();
                             qtdAgendados = SQL.qtdData(dataD);
                             if (qtdAgendados < 6){
                                 txtData.Text = dataD;
