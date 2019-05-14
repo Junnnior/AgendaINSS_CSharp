@@ -8,7 +8,7 @@ using System.Data.OleDb;
 
 namespace Agendamento
 {
-    class Modolos
+    class Modulos
     {
         // caminho do banco de dados.
         string caminho = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\\Users\\junio\\Desktop\\agendamento\\Agendamento\\bancoReab.mdb";
@@ -25,7 +25,9 @@ namespace Agendamento
             conexao.Open();
 
             //string comandoSQL = "SELECT " + coluna + " From tabelaReab";
-            string comandoSQL = "SELECT * FROM tabelaReab WHERE data = '" + data + "'";
+            string comandoSQL = "SELECT * FROM tabelaReab WHERE data = @data";
+            cmd.Parameters.AddWithValue("@data", data);
+            
             OleDbCommand commando = new OleDbCommand(comandoSQL, conexao);
 
             //Executar o comando e ler os dados retornados
